@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D68F146D-5853-42D8-96F1-D83D27DB0B64}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParkingSys/ParkingStructure.cs">
+    <Files>
+      <File FileName="ParkingSys/Program.cs" Line="83" Column="1" />
+      <File FileName="ParkingSys/ParkingStructure.cs" Line="20" Column="49" />
+      <File FileName="ParkingSys/MultiCellBuffer.cs" Line="81" Column="29" />
+      <File FileName="ParkingSys/OrderClass.cs" Line="22" Column="1" />
+      <File FileName="ParkingSys/OrderProcessing.cs" Line="17" Column="24" />
+      <File FileName="ParkingSys/ParkingAgent.cs" Line="49" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ParkingSys" expanded="True" selected="True">
+            <Node name="ParkingSys" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ParkingSys PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

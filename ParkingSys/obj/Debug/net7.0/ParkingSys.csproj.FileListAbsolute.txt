@@ -1,0 +1,15 @@
+/Users/himashar/Projects/ParkingSys/ParkingSys/obj/Debug/net7.0/ParkingSys.csproj.AssemblyReference.cache
+/Users/himashar/Projects/ParkingSys/ParkingSys/obj/Debug/net7.0/ParkingSys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himashar/Projects/ParkingSys/ParkingSys/obj/Debug/net7.0/ParkingSys.AssemblyInfoInputs.cache
+/Users/himashar/Projects/ParkingSys/ParkingSys/obj/Debug/net7.0/ParkingSys.AssemblyInfo.cs
+/Users/himashar/Projects/ParkingSys/ParkingSys/obj/Debug/net7.0/ParkingSys.csproj.CoreCompileInputs.cache
+/Users/himashar/Projects/ParkingSys/ParkingSys/bin/Debug/net7.0/ParkingSys
+/Users/himashar/Projects/ParkingSys/ParkingSys/bin/Debug/net7.0/ParkingSys.deps.json
+/Users/himashar/Projects/ParkingSys/ParkingSys/bin/Debug/net7.0/ParkingSys.runtimeconfig.json
+/Users/himashar/Projects/ParkingSys/ParkingSys/bin/Debug/net7.0/ParkingSys.dll
+/Users/himashar/Projects/ParkingSys/ParkingSys/bin/Debug/net7.0/ParkingSys.pdb
+/Users/himashar/Projects/ParkingSys/ParkingSys/obj/Debug/net7.0/ParkingSys.dll
+/Users/himashar/Projects/ParkingSys/ParkingSys/obj/Debug/net7.0/refint/ParkingSys.dll
+/Users/himashar/Projects/ParkingSys/ParkingSys/obj/Debug/net7.0/ParkingSys.pdb
+/Users/himashar/Projects/ParkingSys/ParkingSys/obj/Debug/net7.0/ParkingSys.genruntimeconfig.cache
+/Users/himashar/Projects/ParkingSys/ParkingSys/obj/Debug/net7.0/ref/ParkingSys.dll
